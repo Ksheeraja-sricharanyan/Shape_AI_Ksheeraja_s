@@ -1,2 +1,2 @@
-# Shape_AI_Ksheeraja_s
+# ShapeAI_Python_machine_learning
 Basic python programming using ML
